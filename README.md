@@ -1,2 +1,2 @@
 # cfndslhelper
-Helper to manage Cloudformation projects using the cnfdsl DSL
+Helper to manage Cloudformation projects using the cfndsl DSL
